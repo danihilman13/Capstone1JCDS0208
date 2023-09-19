@@ -19,3 +19,7 @@ Penggunaan
 
 Deskripsi Proyek
 Proyek ini bertujuan untuk memberikan contoh sederhana tentang bagaimana mengelola data karyawan dalam sebuah perusahaan. Operasi CRUD (Create, Read, Update, Delete) dan pengajuan cuti digunakan untuk mengelola entri data karyawan dalam database.
+
+Cek Login:
+Username: bandung
+juara
